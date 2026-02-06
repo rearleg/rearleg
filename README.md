@@ -19,31 +19,23 @@
 # 🛠 Tech Stack
 
 ### 🔤 Languages & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<p align="center">
+  [![My Language Skills](https://skillicons.dev/icons?i=java,python,js,html,css)](https://skillicons.dev)
 </p>
 
 ### 💻 Frameworks & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+<p align="center">
+  [![My Language Skills](https://skillicons.dev/icons?i=pytorch,django,react,flutter)](https://skillicons.dev)
 </p>
 
 ### ☁️ Infrastructure & Tool
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  [![My Language Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,ubuntu,git)](https://skillicons.dev)
 </p>
 
 ### 🎨 Design & Productivity
 <p align="left">
+  [![My Language Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,ubuntu,git)](https://skillicons.dev)
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
