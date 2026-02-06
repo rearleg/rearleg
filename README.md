@@ -60,5 +60,3 @@
 # 🚀 Projects & Learning
 * 🎙️ **selo**: AI-powered speech trainer for daily communication.
 * 📝 **TIL**: 알고리즘 SWEA B형 취득을 목표로 꾸준히 기록 중!
-* 📈 **Top Languages**:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rearleg96&layout=compact&theme=tokyonight" />
