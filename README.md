@@ -13,7 +13,7 @@
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -22,7 +22,4 @@
 
 # Projects
 * **selo**: AI-powered speech trainer for daily communication.
-* **Algorithm Solving**: 꾸준한 Java 알고리즘 문제 풀이 및 기록
-
-# Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=본인계정ID&show_icons=true&theme=radical)
+* **TIL**: 알고리즘 B형 목표!!
