@@ -9,31 +9,31 @@
 
 ---
 
-# 👋 About Me
+# About Me
 * 🎓 **SSAFY 15기** 비전공 Java / 서울지역대표
 * ☕ **Korean Disfluency Detection** 모델 개발 진행 중
 * 🛠️ **Ubuntu** 환경 기반 AI 모델(Whisper 등) 최적화 연구
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-### 🔤 Languages & Databases
+### Languages & Databases
 [![My Language Skills](https://skillicons.dev/icons?i=java,python,js,html,css)](https://skillicons.dev)
 
 
-### 💻 Frameworks & AI
+### Frameworks & AI
 
 [![My Language Skills](https://skillicons.dev/icons?i=pytorch,gcp,django,react,flutter)](https://skillicons.dev)
 
-### ☁️ Infrastructure & Tool
+### Infrastructure & Tool
 [![My Language Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,ubuntu,git,anaconda)](https://skillicons.dev)
 
-### 🎨 Design & Productivity
+### Design & Productivity
 [![My Language Skills](https://skillicons.dev/icons?i=figma,ai,ps,notion)](https://skillicons.dev)
 
 ---
 
-# 🚀 Projects & Learning
-* 🎙️ **selo**: AI-powered speech trainer for daily communication.
-* 📝 **TIL**: 알고리즘 SWEA B형 취득을 목표로 꾸준히 기록 중!
+# Projects & Learning
+* **selo**: AI-powered speech trainer for daily communication.
+* **TIL**: 알고리즘 SWEA B형 취득을 목표로 꾸준히 기록 중!
