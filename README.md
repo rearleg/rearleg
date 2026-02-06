@@ -23,24 +23,14 @@
 
 
 ### 💻 Frameworks & AI
-<p align="center">
-  [![My Language Skills](https://skillicons.dev/icons?i=pytorch,django,react,flutter)](https://skillicons.dev)
-</p>
+
+[![My Language Skills](https://skillicons.dev/icons?i=pytorch,gcp,django,react,flutter)](https://skillicons.dev)
 
 ### ☁️ Infrastructure & Tool
-<p align="center">
-  [![My Language Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,ubuntu,git)](https://skillicons.dev)
-</p>
+[![My Language Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,ubuntu,git,anaconda)](https://skillicons.dev)
 
 ### 🎨 Design & Productivity
-<p align="left">
-  [![My Language Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,ubuntu,git)](https://skillicons.dev)
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-</p>
+[![My Language Skills](https://skillicons.dev/icons?i=figma,ai,ps,notion)](https://skillicons.dev)
 
 ---
 
