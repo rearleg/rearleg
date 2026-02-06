@@ -1,8 +1,7 @@
 # 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=I'm%20rearleg!&fontSize=70)
 
-![rearleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=rearleg&show_icons=true&theme=synthwave)
-
+![rearleg's GitHub stats](https://github-readme-stats.vercel.app/api?username=rearleg&show_icons=true&theme=cobalt
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sksmdygks7)](https://solved.ac/sksmdygks7)
 
 # About Me
