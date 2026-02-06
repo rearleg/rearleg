@@ -1,5 +1,5 @@
 # 
-![rearleg's streak](https://github-readme-streak-stats.herokuapp.com/?user=rearleg&theme=cobalt) <br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight) <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sksmdygks7)](https://solved.ac/sksmdygks7)
 
 # About Me
