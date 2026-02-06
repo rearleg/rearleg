@@ -1,5 +1,5 @@
 # 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight) <br>
+![rearleg's github stats](https://github-readme-stats.vercel.app/api?username=rearleg96&show_icons=true&theme=tokyonight) <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sksmdygks7)](https://solved.ac/sksmdygks7)
 
 # About Me
