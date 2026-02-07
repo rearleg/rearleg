@@ -1,14 +1,3 @@
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rearleg&show_icons=true&theme=tokyonight" />
-  <br>
-  <a href="https://solved.ac/sksmdygks7">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=sksmdygks7" />
-  </a>
-</p>
-
----
-
 # About Me
 * 🎓 **SSAFY 15기** 비전공 Java / 서울지역대표
 * ☕ **Korean Disfluency Detection** 모델 개발 진행 중
@@ -37,3 +26,12 @@
 # Projects & Learning
 * **selo**: AI-powered speech trainer for daily communication.
 * **TIL**: 알고리즘 SWEA B형 취득을 목표로 꾸준히 기록 중!
+
+---
+
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rearleg&show_icons=true&theme=tokyonight" />
+<br>
+<a href="https://solved.ac/sksmdygks7">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=sksmdygks7" />
+</a>
