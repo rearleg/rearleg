@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rearleg96&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rearleg&show_icons=true&theme=tokyonight" />
   <br>
   <a href="https://solved.ac/sksmdygks7">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=sksmdygks7" />
