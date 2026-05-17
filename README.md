@@ -1,6 +1,6 @@
 # About Me
 * 🎓 **SSAFY 15기** 비전공 Java / 서울지역대표
-* ☕ **Korean Disfluency Detection** 모델 개발 진행 중
+* ☕ **Korean Disfluency Detection** 모델 개발
 * 🛠️ **Ubuntu** 환경 기반 AI 모델(Whisper 등) 최적화 연구
 
 ---
