@@ -8,7 +8,7 @@
 # Tech Stack
 
 ### Languages & Databases
-[![My Language Skills](https://skillicons.dev/icons?i=java,python,js,html,css)](https://skillicons.dev)
+[![My Language Skills](https://skillicons.dev/icons?i=java,python,js,html,css,go)](https://skillicons.dev)
 
 
 ### Frameworks & AI
