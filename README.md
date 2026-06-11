@@ -12,7 +12,7 @@
 
 
 ### Frameworks & AI
-[![My Language Skills](https://skillicons.dev/icons?i=spring,pytorch,django,react,flutter)](https://skillicons.dev)
+[![My Language Skills](https://skillicons.dev/icons?i=spring,pytorch,django,react)](https://skillicons.dev)
 
 ### Infrastructure & Tool
 [![My Language Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,kafka,redis,ubuntu,git,anaconda)](https://skillicons.dev)
