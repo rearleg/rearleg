@@ -1,5 +1,5 @@
 # About Me
-* 🎓 **SSAFY 15기** 비전공 Java / 서울지역대표
+* 🎓 **SSAFY 15기** 서울지역대표 / 1학기 성적우수상 / 1학기 프로젝트 최우수상
 * ☕ **Korean Disfluency Detection** 모델 개발
 * 🛠️ **Ubuntu** 환경 기반 AI 모델(Whisper 등) 최적화 연구
 
@@ -9,7 +9,6 @@
 
 ### Languages & Databases
 [![My Language Skills](https://skillicons.dev/icons?i=java,python,js,html,css,go)](https://skillicons.dev)
-
 
 ### Frameworks & AI
 [![My Language Skills](https://skillicons.dev/icons?i=spring,pytorch,django,react)](https://skillicons.dev)
