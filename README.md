@@ -1,6 +1,6 @@
-# About Me
+# 천창현입니다.
 * 🎓 **SSAFY 15기** 서울지역대표 / 1학기 성적우수상 / 1학기 프로젝트 최우수상
-* ☕ **Korean Disfluency Detection** 모델 개발
+* ☕ **Korean Disfluency Detection** 모델 개발 (SeloWhisper)
 * 🛠️ **Ubuntu** 환경 기반 AI 모델(Whisper 등) 최적화 연구
 
 ---
