@@ -1,32 +1,33 @@
-# 천창현입니다.
-* 🎓 **SSAFY 15기** 서울지역대표 / 1학기 성적우수상 / 1학기 프로젝트 최우수상(1등) / 2학기 공통 프로젝트 최우수상(1등)
-* ☕ **Korean Disfluency Detection** 모델 개발 (SeloWhisper)
-* 🛠️ **Ubuntu** 환경 기반 AI 모델(Whisper 등) 최적화 연구
+# 개발자 천창현입니다.
+### **SSAFY 15기** 비전공 Java 트랙
+* 서울지역대표 / 공식 기자단
+* 1학기 성적우수상
+* 1학기 프로젝트 최우수상 (1등)
+* 2학기 1차 프로젝트 최우수상 (1등)
+* 일타싸피(알고리즘 당구 게임) 전국 대항전 1위
+* 배틀싸피(알고리즘 탱크 배틀 게임) 반 대항전 1위
+* 삼성SW역량등급 A형
+  
+### 비유창성 탐지 모델 개발
+* SeloWhisper 개발 [HuggingFace](https://huggingface.co/rearleg/SeloWhisper-ko-disfluency)
 
 ---
 
-# Tech Stack
+# 기술 스택
 
-### Languages & Databases
-[![My Language Skills](https://skillicons.dev/icons?i=java,python,js,html,css,go)](https://skillicons.dev)
+### 편해요
+[![My Language Skills](https://skillicons.dev/icons?i=java,spring,python,pytorch,docker,nginx,postgresql,ubuntu,aws,cloudflare)](https://skillicons.dev)
 
-### Frameworks & AI
-[![My Language Skills](https://skillicons.dev/icons?i=spring,pytorch,django,react)](https://skillicons.dev)
+### 어느 정도 할 수 있어요
+[![My Language Skills](https://skillicons.dev/icons?i=go,rust,django,fastapi,redis,kafka,mysql)](https://skillicons.dev)
 
-### Infrastructure & Tool
-[![My Language Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,kafka,redis,ubuntu,git,anaconda)](https://skillicons.dev)
+### 해본 적 있어요
+[![My Language Skills](https://skillicons.dev/icons?i=javascript,typescript,react,androidstudio,vuejs,tailwindcss)](https://skillicons.dev)
 
-### Design & Productivity
-[![My Language Skills](https://skillicons.dev/icons?i=figma,ai,ps,notion)](https://skillicons.dev)
-
----
-
-# Projects & Learning
-* **selo**: AI-powered speech trainer for daily communication.
-* **TIL**: 알고리즘 SWEA B형 취득을 목표로 꾸준히 기록 중!
+### 협업 및 디자인
+[![My Language Skills](https://skillicons.dev/icons?i=figma,ai,ps,notion,discord)](https://skillicons.dev)
 
 ---
-
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rearleg&show_icons=true&theme=tokyonight" />
 <br>
