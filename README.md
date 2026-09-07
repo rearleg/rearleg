@@ -1,3 +1,11 @@
+<a href="https://github.com/rearleg/portfolio/raw/refs/heads/main/portfolio-cheonchanghyeon.pdf">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-DOWNLOAD-7C3AED?style=for-the-badge&labelColor=111827"
+    height="44"
+    alt="Portfolio Download"
+  />
+</a>
+
 # 개발자 천창현입니다.
 ### **SSAFY 15기** 비전공 Java 트랙
 * 서울지역대표 / 공식 기자단
