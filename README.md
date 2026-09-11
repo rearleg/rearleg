@@ -16,8 +16,9 @@
 * 배틀싸피(알고리즘 탱크 배틀 게임) 반 대항전 1위
 * 삼성SW역량등급 A형
   
-### 비유창성 탐지 모델 개발
-* SeloWhisper 개발 [HuggingFace](https://huggingface.co/rearleg/SeloWhisper-ko-disfluency)
+### 자격증
+* 정보처리기사
+* SQLD
 
 ---
 
